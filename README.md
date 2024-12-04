@@ -5,3 +5,4 @@ Data Integration: Supports indexing data from various sources (e.g., documents, 
 Scalable AI Models: Utilizes Gemini Pro for powerful generative responses.
 Easy Customization: Extendable architecture to adapt to various use cases.
 ![Screenshot 2024-12-04 100617](https://github.com/user-attachments/assets/f5b2512f-c328-4014-b43f-e36787d67a1f)
+![upload](https://github.com/user-attachments/assets/4bf20613-54e8-481e-bf6f-750b1a59d752)
