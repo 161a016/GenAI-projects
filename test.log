@@ -1,0 +1,14 @@
+INFO:root:creating directory; QAWithPDF for filename __init__.py
+INFO:root:creating empty file:QAWithPDF\__init__.py
+INFO:root:creating directory; QAWithPDF for filename data_ingestion.py
+INFO:root:creating empty file:QAWithPDF\data_ingestion.py
+INFO:root:creating directory; QAWithPDF for filename embedding.py
+INFO:root:creating empty file:QAWithPDF\embedding.py
+INFO:root:creating directory; QAWithPDF for filename model_api.py
+INFO:root:creating empty file:QAWithPDF\model_api.py
+INFO:root:creating directory; Experiements for filename experiement.ipynb
+INFO:root:creating empty file:Experiements\experiement.ipynb
+INFO:root:creating empty file:StreamlitApp.py
+INFO:root:creating empty file:logger.py
+INFO:root:creating empty file:expection.py
+INFO:root:creating empty file:setup.py
